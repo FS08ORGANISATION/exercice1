@@ -1,0 +1,46 @@
+.head{
+    background-color: aqua;
+    height:90px;
+    width: 80%;
+    margin-left: 10%;
+   border-style: ridge;
+   text-align: center;
+   padding-top: 50px;
+}
+.men{
+    background-color: rgba(255, 0, 106, 0.815);
+    height:40px;
+    width: 80%;
+    margin-left: 10%;
+   border-style: ridge;
+   text-align: center;
+   padding-top: 20px;
+}
+.lef{
+    background-color: rgb(168, 207, 233);
+    height:400px;
+    width: 20%;
+    margin-left: 10%;
+   border-style: ridge;
+   float: left;
+   text-align: center;
+   padding-top: 200px;
+}
+.rig{
+    background-color: rgb(15, 189, 102);
+    height:400px;
+    width: 60%;
+    margin-left: 30%;
+   border-style: ridge;
+   text-align: center;
+   padding-top: 200px;
+}
+.foot{
+    background-color: rgb(238, 137, 179);
+    height:20px;
+    width: 80%;
+    margin-left: 10%;
+   border-style: ridge;
+   text-align: center;
+   padding-top: 10px;
+}
